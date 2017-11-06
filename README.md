@@ -1,3 +1,1 @@
-Run CreateUserVillageWorksScript
-Run CreateContactDB script
-Run InsertLookupDate script
+First run CreateUserVillageWorksScript. Second run CreateContactDB script and then run InsertLookupDate script
